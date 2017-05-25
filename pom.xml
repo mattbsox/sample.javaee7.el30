@@ -39,11 +39,6 @@
         <dependency>
             <groupId>javax.el</groupId>
             <artifactId>javax.el-api</artifactId>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>javax.el</groupId>
-            <artifactId>javax.el-api</artifactId>
             <version>3.0.0</version>
         </dependency>
     </dependencies>
@@ -59,6 +54,7 @@
                     <installAppPackages>project</installAppPackages>
                     <looseApplication>true</looseApplication>
                     <stripVersion>true</stripVersion>
+                    <type>zip</type>
                     <bootstrapProperties>
                         <appLocation>${project.artifactId}.war</appLocation>
                     </bootstrapProperties>
