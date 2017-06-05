@@ -51,3 +51,7 @@ Click the button below to deploy your own copy of this application to [Bluemix](
 
 Once the application is deployed and running in Bluemix, it will be available under 
 [http://MYAPPNAME.mybluemix.net/sample.javaee7.el30/](http://MYAPPNAME.mybluemix.net/sample.javaee7.el30/).
+
+## Notice
+
+© Copyright IBM Corporation 2015, 2017.
